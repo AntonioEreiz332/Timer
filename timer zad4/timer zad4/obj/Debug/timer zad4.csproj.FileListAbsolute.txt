@@ -1,0 +1,10 @@
+C:\Users\toni-PC\source\repos\timer zad4\timer zad4\bin\Debug\timer zad4.exe.config
+C:\Users\toni-PC\source\repos\timer zad4\timer zad4\bin\Debug\timer zad4.exe
+C:\Users\toni-PC\source\repos\timer zad4\timer zad4\bin\Debug\timer zad4.pdb
+C:\Users\toni-PC\source\repos\timer zad4\timer zad4\obj\Debug\timer zad4.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\timer zad4\timer zad4\obj\Debug\timer_zad4.Form1.resources
+C:\Users\toni-PC\source\repos\timer zad4\timer zad4\obj\Debug\timer_zad4.Properties.Resources.resources
+C:\Users\toni-PC\source\repos\timer zad4\timer zad4\obj\Debug\timer zad4.csproj.GenerateResource.cache
+C:\Users\toni-PC\source\repos\timer zad4\timer zad4\obj\Debug\timer zad4.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\timer zad4\timer zad4\obj\Debug\timer zad4.exe
+C:\Users\toni-PC\source\repos\timer zad4\timer zad4\obj\Debug\timer zad4.pdb
